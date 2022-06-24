@@ -1,0 +1,115 @@
+{
+    "houses": [
+      {
+        "id": 1,
+        "image_url": "https://www.pointproperties.org/properties/1-bedroom-apartment-karen",
+        "price": "Ksh 29,500",
+        "town": "Dagoretti",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 2,
+        "image_url": "https://www.the-star.co.ke/classifieds/house-apartment-for-rent/single-room-house-for-rent-in-nairobi.html",
+        "price": "Ksh 49,500",
+        "town": "Westlands",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 3,
+        "image_url": "https://ke.loozap.com/stunning-bedsitter-to-let-at-kangemi-waruku-call-0797835183-nairobi-kangemi-waruku/7913283.html",
+        "price": "Ksh 10,500",
+        "town": "Lang'ata",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 4,
+        "image_url": "https://i.roamcdn.net/prop/brk/listing-medium-600w-watermark/8ab19bce0ea3d25f4fc0c1de8fd665e6/-/prod-property-core-backend-media-brk/4224088/22d78477-cff7-48b0-ac38-4c192894dbfd.jpeg",
+        "price": "Ksh 29,500",
+        "town": "Kibera",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 5,
+        "image_url": "https://kenyapropertycentre.com/for-rent/flats-apartments/showtype?bedrooms=2",
+        "price": "Ksh 48,500",
+        "town": "Roysambu",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 6,
+        "image_url": "https://deals.jumia.co.ke/bedsitter-house-to-let-in-madaraka-pid6924379",
+        "price": "Ksh 13,500",
+        "town": "Kasarani",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 7,
+        "image_url": "https://homes.trovit.co.ke/for-rent-single-room",
+        "price": "Ksh 9,500",
+        "town": "Ruaraka",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 8,
+        "image_url": "https://jiji.co.ke/kitengela/houses-apartments-for-rent/1bdrm-bedsitter-in-micasa-apartments-kitengela-for-rent-Bj3BHAIThJCnguybmP4x0LB9.html",
+        "price": "Ksh 29,500",
+        "town": "Embakasi",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 9,
+        "image_url": "https://jiji.co.ke/bamburi-mtambo/houses-apartments-for-rent/bedsitter-to-let-3akKyrhkgU4PSMtVy0k8IRs5.html",
+        "price": "Ksh 29,500",
+        "town": "Makadara",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
+      {
+        "id": 10,
+        "image_url": "https://jiji.co.ke/42-single-room-for-rent",
+        "price": "Ksh 29,500",
+        "town": "Kamukunji",
+        "location": "01,Lower Kabete,Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      }
+      ]}
+
+   
